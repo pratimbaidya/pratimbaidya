@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hello World!! This is my Github Profile. Here you will find out all the projects that I have done. Thanks for visiting. Hope you like some of my projects.
 <!--
 **pratimbaidya/pratimbaidya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
