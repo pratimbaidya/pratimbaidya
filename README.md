@@ -5,7 +5,7 @@
 
 - 🔭 These are my best Projects:
     * Heart Disease Classification Using Sklearn - [Link](https://github.com/pratimbaidya/Heart-Disease-Classification)
-    * Image Classification using Pytorch (CNN & Transfer Learning) - [Link] (https://github.com/pratimbaidya/Image_Classification_brain_cancer)
+    * Image Classification using Pytorch (CNN & Transfer Learning) - [Link](https://github.com/pratimbaidya/Image_Classification_brain_cancer)
 
 - 🌱 I’m currently learning **Computer Vision and NLP with Pytorch**
 
