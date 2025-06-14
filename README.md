@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimbaidya&label=Profile%20views&color=0e75b6&style=flat" alt="pratimbaidya" /> </p>
 
-- 🔭 I’m currently working on [Computer Vision](https://github.com/pratimbaidya/Image_Classification_brain_cancer/tree/main)
+- 🔭 These are my best Projects:
+    * Heart Disease Classification Using Sklearn - [Link](https://github.com/pratimbaidya/Heart-Disease-Classification)
+    * Image Classification using Pytorch (CNN & Transfer Learning) - [Link] (https://github.com/pratimbaidya/Image_Classification_brain_cancer)
 
 - 🌱 I’m currently learning **Computer Vision and NLP with Pytorch**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pratimbaidya](https://github.com/pratimbaidya)
+- 👨‍💻 All of my projects are available below.
 
 - 📫 How to reach me **pratimbaidya6@gmail.com**
 
