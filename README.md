@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimbaidya&label=Profile%20views&color=0e75b6&style=flat" alt="pratimbaidya" /> </p>
 
-- 🔭 These are my best Projects:
+- 🔭 These are my personal Projects:
     * Heart Disease Classification Using Sklearn - [Link](https://github.com/pratimbaidya/Heart-Disease-Classification)
     * Image Classification using Pytorch (CNN & Transfer Learning) - [Link](https://github.com/pratimbaidya/Image_Classification_brain_cancer)
+    * Sarcasm Detection from News Headlines (BERT Model) - [Link](https://github.com/pratimbaidya/Sarcasm_Detection_from_NewsHeadlines/tree/main)
 
 - 🌱 I’m currently learning **Computer Vision and NLP with Pytorch**
 
