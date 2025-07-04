@@ -8,7 +8,7 @@
     * Image Classification using Pytorch (CNN & Transfer Learning) - [Link](https://github.com/pratimbaidya/Image_Classification_brain_cancer)
     * Sarcasm Detection from News Headlines (BERT Model) - [Link](https://github.com/pratimbaidya/Sarcasm_Detection_from_NewsHeadlines/tree/main)
 
-- 🌱 I’m currently learning **Computer Vision and NLP with Pytorch**
+- 🌱 I’m currently learning **MLOps**
 
 - 👨‍💻 All of my projects are available below.
 
