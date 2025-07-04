@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pratimbaidya6@gmail.com**
 
-- 📄 My Resume [Link](https://github.com/pratimbaidya/pratimbaidya/blob/main/PRATIM%20BAIDYA%20CV.pdf))
+- 📄 My Resume [Link](https://github.com/pratimbaidya/pratimbaidya/blob/main/PRATIM%20BAIDYA%20CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
