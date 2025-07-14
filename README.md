@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratimbaidya&label=Profile%20views&color=0e75b6&style=flat" alt="pratimbaidya" /> </p>
 
 - 🔭 These are my personal Projects:
+    * Ecommerce Data Analysis Using SQL and Python - [Link](https://github.com/pratimbaidya/eccomerce_data_analysis_python_sql)
     * Heart Disease Classification Using Sklearn - [Link](https://github.com/pratimbaidya/Heart-Disease-Classification)
     * Image Classification using Pytorch (CNN & Transfer Learning) - [Link](https://github.com/pratimbaidya/Image_Classification_brain_cancer)
     * Sarcasm Detection from News Headlines (BERT Model) - [Link](https://github.com/pratimbaidya/Sarcasm_Detection_from_NewsHeadlines/tree/main)
