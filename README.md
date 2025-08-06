@@ -13,6 +13,11 @@
 
 - 👨‍💻 All of my projects are available below.
 
+- 🎖️ These are my cetifications and credentials
+     * Advanced Certificate in Machine Learning and Data Science from IIT Madras -
+     * Applied Data Science Lab from WorldQuant University -
+     * B. Tech in Mechanical Engineering from MAKAUT - 
+
 - 📫 How to reach me **pratimbaidya6@gmail.com**
 
 - 📄 My Resume [Link](https://github.com/pratimbaidya/pratimbaidya/blob/main/PRATIM%20BAIDYA%20CV.pdf)
