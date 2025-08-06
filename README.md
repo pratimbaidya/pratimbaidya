@@ -14,9 +14,9 @@
 - 👨‍💻 All of my projects are available below.
 
 - 🎖️ These are my cetifications and credentials
-     * Advanced Certificate in Machine Learning and Data Science from IIT Madras -
-     * Applied Data Science Lab from WorldQuant University -
-     * B. Tech in Mechanical Engineering from MAKAUT - 
+     * Advanced Certificate in Machine Learning and Data Science from IIT Madras - [Link](https://github.com/pratimbaidya/pratimbaidya/blob/main/Advanced%20Certificate%20in%20Machine%20Learing.pdf)
+     * Applied Data Science Lab from WorldQuant University - [Link](https://www.credly.com/badges/a6cdf462-7223-471f-a0ec-edc29a2538d8/linked_in_profile)
+     * B. Tech in Mechanical Engineering from MAKAUT - [Link](https://github.com/pratimbaidya/pratimbaidya/blob/main/B.Tech%20Certificate%20.pdf)
 
 - 📫 How to reach me **pratimbaidya6@gmail.com**
 
