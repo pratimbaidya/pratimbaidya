@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **pratimbaidya6@gmail.com**
 
-- 📄 My Resume [Link](https://github.com/pratimbaidya/pratimbaidya/blob/main/PRATIM%20BAIDYA%20CV.pdf)
+- 📄 My Resume [Link](https://drive.google.com/file/d/1jw3tI21wH2xsTaDzuqekKf1zMYR_vtcI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
