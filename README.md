@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **pratimbaidya6@gmail.com**
 
-- 📄 My Resume [Link]([https://drive.google.com/file/d/1bfjGL73TNlLKeVZdJJ9iLejOQQCJbuPx/view?usp=sharing](https://drive.google.com/file/d/1mPuI9o8AwOLaWpR2aXtlcQdq0RVw5TGm/view?usp=sharing))
+- 📄 My Resume [Link](https://drive.google.com/file/d/1mPuI9o8AwOLaWpR2aXtlcQdq0RVw5TGm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
